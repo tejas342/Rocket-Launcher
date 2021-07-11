@@ -11,5 +11,9 @@ Playing Link : https://sharemygame.com/@tejas342/rocket-launcher
 
 If any error or bug spotted, let me know through tejasprajapati342@gmail.com
 
+# Code
+The code written in Movement.cs enables movement from keys.
+The code written in CollisionHandler.cs is responsible for changes after collsion and it enables collision.
+The code written in Oscillation.cs is responsible for movement of objects(obstacles).
 
 Thank You ✌
